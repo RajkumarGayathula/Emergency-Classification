@@ -56,9 +56,9 @@
  1. Clone the repository
     git clone https://github.com/your-username/project-name.git
  2. Navigate to the project directory
-    cd project-name
+    # cd project-name
  3. Install required libraries
-    pip install -r requirements.txt
+    # pip install -r requirements.txt
  4. Run the notebook or Python script
 
 
