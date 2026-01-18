@@ -3,35 +3,35 @@
 
 # 📌 Project Overview : 
 
- Emergency Departments (ED) face challenges in prioritizing patients efficiently due to high patient inflow and limited medical resources. This project uses Machine Learning techniques to classify patients based   on the severity of their condition, enabling faster and more accurate triage decisions.
- The system analyzes patient data such as vital signs and symptoms to predict priority levels, helping medical staff improve response time and patient care quality.
+   1. Emergency Departments (ED) face challenges in prioritizing patients efficiently due to high patient inflow and limited medical resources. This project uses Machine Learning techniques to classify patients         based   on the severity of their condition, enabling faster and more accurate triage decisions.
+   2. The system analyzes patient data such as vital signs and symptoms to predict priority levels, helping medical staff improve response time and patient care quality.
 
 
 # 🎯 Objectives :
 
- > Automate patient classification in emergency departments
- > Reduce waiting time for critical patients
- > Improve decision-making using machine learning models
- > Enhance efficiency in hospital resource allocation
+   1. Automate patient classification in emergency departments.
+   2. Reduce waiting time for critical patients.
+   3. Improve decision-making using machine learning models.
+   4. Enhance efficiency in hospital resource allocation.
 
 
 # 🛠️ Technologies Used : 
 
- > Programming Language: Python
- > Libraries & Frameworks:
-     NumPy
-     Pandas
-     Scikit-learn
-     Matplotlib
-     Seaborn
- > IDE/Tools: Jupyter Notebook / VS Code
+    1. Programming Language: Python.
+    2. Libraries & Frameworks:
+        NumPy,
+        Pandas,
+        Scikit-learn,
+        Matplotlib
+        Seaborn.
+    3. IDE/Tools: Jupyter Notebook / VS Code.
 
 
 # 📊 Dataset : 
 
- > Patient data including vital signs, symptoms, and clinical indicators
- > Dataset is preprocessed to handle missing values and noise
- > Used for supervised machine learning classification
+   1. Patient data including vital signs, symptoms, and clinical indicators.
+   2. Dataset is preprocessed to handle missing values and noise.
+   3. Used for supervised machine learning classification.
 
 
 # ⚙️ Project Workflow : 
@@ -46,9 +46,9 @@
 
 # ✅ Results : 
 
- > The trained model successfully classifies patients into different emergency levels
- > Helps identify critical patients quickly
- > Demonstrates improved accuracy compared to manual triage methods
+   1. The trained model successfully classifies patients into different emergency levels.
+   2. Helps identify critical patients quickly.
+   3. Demonstrates improved accuracy compared to manual triage methods.
 
 
 # 🚀 How to Run the Project : 
@@ -64,8 +64,8 @@
 
 # 📌 Future Enhancements : 
 
- > Integration with real-time hospital systems
- > Use of deep learning models for better accuracy
- > Deployment as a web or mobile application
- > Support for larger and real-time datasets
+   1. Integration with real-time hospital systems
+   2. Use of deep learning models for better accuracy
+   3. Deployment as a web or mobile application
+   4. Support for larger and real-time datasets
 
